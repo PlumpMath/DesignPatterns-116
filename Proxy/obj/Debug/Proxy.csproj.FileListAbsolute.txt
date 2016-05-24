@@ -1,0 +1,6 @@
+C:\work\DesignPatterns\Proxy\bin\Debug\Proxy.exe.config
+C:\work\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+C:\work\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+C:\work\DesignPatterns\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\work\DesignPatterns\Proxy\obj\Debug\Proxy.exe
+C:\work\DesignPatterns\Proxy\obj\Debug\Proxy.pdb
