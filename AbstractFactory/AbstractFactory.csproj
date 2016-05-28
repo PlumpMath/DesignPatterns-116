@@ -44,6 +44,7 @@
     <Compile Include="AccessDepartment.cs" />
     <Compile Include="AccessFactory.cs" />
     <Compile Include="AccessUser.cs" />
+    <Compile Include="DataAccess.cs" />
     <Compile Include="Department.cs" />
     <Compile Include="IDepartment.cs" />
     <Compile Include="IFactory.cs" />
