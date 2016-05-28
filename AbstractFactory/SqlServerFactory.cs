@@ -12,7 +12,7 @@ namespace AbstractFactory
     {
         public IUser CreateUser()
         {
-            return new SqlserverUser();
+            return new SqlServerUser();
         }
 
 
