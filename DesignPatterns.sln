@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "Abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{BF5DD0C1-5FDF-477D-A00D-3702E530409D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{FAED3ADC-56E0-46AF-91EE-6C2EA9BAF6E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{BF5DD0C1-5FDF-477D-A00D-3702E530409D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF5DD0C1-5FDF-477D-A00D-3702E530409D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF5DD0C1-5FDF-477D-A00D-3702E530409D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAED3ADC-56E0-46AF-91EE-6C2EA9BAF6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAED3ADC-56E0-46AF-91EE-6C2EA9BAF6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAED3ADC-56E0-46AF-91EE-6C2EA9BAF6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAED3ADC-56E0-46AF-91EE-6C2EA9BAF6E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
