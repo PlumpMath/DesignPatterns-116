@@ -1,0 +1,6 @@
+C:\work\DesignPatterns\FlyWeight\bin\Debug\FlyWeight.exe.config
+C:\work\DesignPatterns\FlyWeight\bin\Debug\FlyWeight.exe
+C:\work\DesignPatterns\FlyWeight\bin\Debug\FlyWeight.pdb
+C:\work\DesignPatterns\FlyWeight\obj\Debug\FlyWeight.csprojResolveAssemblyReference.cache
+C:\work\DesignPatterns\FlyWeight\obj\Debug\FlyWeight.exe
+C:\work\DesignPatterns\FlyWeight\obj\Debug\FlyWeight.pdb
