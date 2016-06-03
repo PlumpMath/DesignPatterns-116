@@ -1,0 +1,6 @@
+C:\work\DesignPatterns\Interpreter\bin\Debug\Interpreter.exe.config
+C:\work\DesignPatterns\Interpreter\bin\Debug\Interpreter.exe
+C:\work\DesignPatterns\Interpreter\bin\Debug\Interpreter.pdb
+C:\work\DesignPatterns\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+C:\work\DesignPatterns\Interpreter\obj\Debug\Interpreter.exe
+C:\work\DesignPatterns\Interpreter\obj\Debug\Interpreter.pdb
